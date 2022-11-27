@@ -13,19 +13,21 @@ The timetable will be as follows:
 
 10:55-11:00	BREAK	
 
-11:00-11:30	Target trial emulation in practice	 
+11:00-11:45	Target trial emulation in practice	 
 
-11:30-11:40	BREAK	
-
-11:40-12:45	Practical 1 	
+11:45-12:45	Practical 1 	
 
 12:45- 1:00	Discussion of Practical 1	 
 
- 1:00 - 1:20	LUNCH	
+ 1:00 - 1:30	LUNCH	
  
- 1:20 - 2:00	Estimating treatment effects 	
+ 1:30 - 2:15	Estimating treatment effects 	
+    
+        -Estimands
+        -Estimation
+        -The Survival Setting
  
- 2:00 - 3:15	Practical 2 (split classes in R and Stata)	
+ 2:15 - 3:15	Practical 2 (Stata and R) and Practical 3 (in parallel)	
  
  3:15 -  3:30	BREAK	
  
